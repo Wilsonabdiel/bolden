@@ -1,26 +1,30 @@
-<!-- MAIN -->
 <main>
-    <!-- DIVISION_1 -->
     <div class="divisions division_1 flex">
-        <article class="flex_content padding_4x">
-            <h2 class="title small">Our History</h2>
-            <p>The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem ipsum.</p>
-            <a href="#" class="link-tag">Some text goes here...</a>
+        <article id ="expertise" class="flex_content padding_4x">
+            <h2 class="title small">Our Expertise</h2>
+            <p>Bolden Resources has a proven track record of helping companies in the automotive industry optimize their procurement processes. We leverage our extensive industry knowledge and strong supplier relationships to deliver cost savings and improve efficiency.</p>
+            <a href="#" class="link-tag">Learn More About Our Services</a>
         </article>
-        <article class="flex_content padding_4x">
-            <h2 class="title small">Our Mission</h2>
-            <p>The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs. Use our generator to get your own, or read on for the authoritative history of lorem ipsum.</p>
-            <a href="#" class="link-tag">Some text goes here...</a>
+        <article id="commitment" class="flex_content padding_4x">
+            <h2 class="title small">Our Commitment</h2>
+            <p>At Bolden Resources, we are committed to providing our clients with exceptional service and support. We work closely with you to understand your unique needs and develop customized procurement solutions that drive real results.</p>
+            <a href="#" class="link-tag">Read Our Client Success Stories</a>
         </article>
     </div>
-    <!-- DIVISION_2 -->
     <div class="divisions division_2 flex padding_2x">
         <section class="flex_content padding_2x">
             <article>
-                <h2 class="title medium">How we make things happen!</h2>
+                <h2 class="title medium">How We Help You Achieve Procurement Excellence</h2>
                 <span class="bar"></span>
-                <p>The purpose of lorem ipsum is to create a natural looking block of text (sentence, paragraph, page, etc.) that doesn't distract from the layout. A practice not without controversy, laying out pages with meaningless filler text can be very useful when the focus is meant to be on design, not content.</p>
-                <p>The passage experienced a surge in popularity during the 1960s when Letraset used it on their dry-transfer sheets, and again during the 90s as desktop publishers bundled the text with their software. Today it's seen all around the web; on templates, websites, and stock designs.</p>
+                <p>Our comprehensive procurement services include:</p>
+                <ul>
+                    <li>Strategic Sourcing</li>
+                    <li>Supplier Management</li>
+                    <li>Contract Negotiation</li>
+                    <li>Risk Management</li>
+                    <li>Spend Analysis</li>
+                </ul>
+                <p>By partnering with Bolden Resources, you can streamline your procurement process, reduce costs, and gain a competitive advantage.</p>
             </article>
         </section>
         <section class="flex_content padding_1x">
@@ -29,15 +33,14 @@
             </figure>
         </section>
     </div>
-    <!-- DIVISION_3 -->
     <div class="divisions division_3 flex">
         <section class="flex_content flex padding_1x">
             <article class="padding_1x">
-                <h2 class="title medium">We always love to hear from you</h2>
-                <p>Reach out to us and let's talk about your business and what we can achieve together.</p>
+                <h2 class="title medium">Let's Talk Procurement</h2>
+                <p>We're confident that we can help you achieve your procurement goals. Contact us today for a free consultation.</p>
             </article>
             <aside class="buttons flex padding_1x">
-                <a href="javascript:void(0)" class="btn btn_2">Contact Us</a>
+                <a href="#contact-form" class="btn btn_2">Contact Us</a>
                 <a href="tel:" class="btn btn_4"><i class="fa fa-phone"></i> (0) 123 456789</a>
             </aside>
         </section>

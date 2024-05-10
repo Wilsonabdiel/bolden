@@ -16,6 +16,7 @@
     @livewire('nav')
     @livewire('header')
     @livewire('Main')
+    @livewire('contact')
     @livewire('Footer')
 <script>
     document.addEventListener('DOMContentLoaded', function() {

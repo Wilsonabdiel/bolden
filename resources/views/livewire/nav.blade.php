@@ -15,8 +15,8 @@
 
     <ul class="flex nav-links">
         <li><a href="#" title="Home">Home</a></li>
-        <li><a href="#" title="Who we are?">Who we are?</a></li>
-        <li><a href="#" title="Contact us">Contact us</a></li>
-        <li><a href="#" title="About us">About us</a></li>
+        <li><a href="#expertise" title="Who we are?">Our expertise</a></li>
+        <li><a href="#contact-form" title="Contact us">Contact us</a></li>
+        <li><a href="#commitment" title="About us">Our Commitment</a></li>
     </ul>
 </nav>

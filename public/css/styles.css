@@ -801,3 +801,102 @@ main{
         width: 100vw;
     }
 }
+
+
+/* Contact Form Styles */
+
+.contact-form {
+    width: 100%;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: var(--white); /* Adjust background color */
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.contact-form h2 {
+    text-align: center;
+    margin-bottom: 1rem;
+    font-size: 1.8em;
+    color: var(--dark); /* Adjust heading color */
+}
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    font-size: 14px;
+    color: var(--dark); /* Adjust label color */
+}
+
+.form-group input,
+.form-group textarea {
+    width: 100%;
+    padding: 0.8rem 1rem;
+    border: 1px solid var(--gray); /* Adjust border color */
+    border-radius: 3px;
+    font-size: 14px;
+    transition: 0.3s;
+}
+
+.form-group input:focus,
+.form-group textarea:focus {
+    border-color: var(--primary); /* Adjust border color on focus */
+}
+
+.form-group textarea {
+    height: 100px;
+    resize: vertical;
+}
+
+.form-group.checkbox {
+    display: flex;
+    align-items: center;
+    margin-bottom: 0;
+}
+
+.form-group.checkbox input {
+    margin-right: 10px;
+}
+
+.form-group.checkbox label {
+    margin: 0;
+}
+
+.btn-submit {
+    display: block;
+    width: 100%;
+    padding: 1rem 1.5rem;
+    background-color: var(--primary); /* Adjust button color */
+    color: var(--white); /* Adjust button text color */
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn-submit:hover {
+    background-color: var(--primary_dark); /* Adjust button color on hover */
+}
+
+.success-message,
+.error-message {
+    padding: 1rem;
+    border-radius: 5px;
+    margin-top: 1rem;
+}
+
+.success-message {
+    background-color: #dff0d8;
+    color: #46b8da;
+}
+
+.error-message {
+    background-color: #f2dede;
+    color: #a94442;
+}

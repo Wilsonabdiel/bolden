@@ -11,9 +11,8 @@
         <a href="#">Terms & Conditions</a>
         <a href="#">Cookie Policy</a>
         <a href="#">Contact Us</a>
-        <a href="#">About Us</a>
     </section>
     <section class="flex">
-        <p>Copyright @ 2023 website name</p>
+        <p>Copyright @ 2024 Bolden Resources</p>
     </section>
 </footer>
